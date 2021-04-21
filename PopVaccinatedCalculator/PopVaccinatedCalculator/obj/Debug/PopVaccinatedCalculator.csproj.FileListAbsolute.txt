@@ -1,7 +1,0 @@
-C:\Users\Tom\source\repos\PopVaccinatedCalculator\PopVaccinatedCalculator\bin\Debug\PopVaccinatedCalculator.exe.config
-C:\Users\Tom\source\repos\PopVaccinatedCalculator\PopVaccinatedCalculator\bin\Debug\PopVaccinatedCalculator.exe
-C:\Users\Tom\source\repos\PopVaccinatedCalculator\PopVaccinatedCalculator\bin\Debug\PopVaccinatedCalculator.pdb
-C:\Users\Tom\source\repos\PopVaccinatedCalculator\PopVaccinatedCalculator\obj\Debug\PopVaccinatedCalculator.csprojResolveAssemblyReference.cache
-C:\Users\Tom\source\repos\PopVaccinatedCalculator\PopVaccinatedCalculator\obj\Debug\PopVaccinatedCalculator.csproj.CoreCompileInputs.cache
-C:\Users\Tom\source\repos\PopVaccinatedCalculator\PopVaccinatedCalculator\obj\Debug\PopVaccinatedCalculator.exe
-C:\Users\Tom\source\repos\PopVaccinatedCalculator\PopVaccinatedCalculator\obj\Debug\PopVaccinatedCalculator.pdb
